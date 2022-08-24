@@ -3,7 +3,9 @@ This simple Discord Bot can send a Personalized Message and a Personalized Image
 
 Python Version:
 Project is created with:
+```
 * Python 3.10
+```
 
 ## Setup
 To run this project, install all important modules:
