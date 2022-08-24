@@ -15,6 +15,6 @@ pip install discord
 pip install easy_pil
 pip install pip install discord-ext-bot
 ```
-## Example
+## Preview
 
 <img width="527" alt="Bildschirmfoto 2022-08-24 um 11 59 55" src="https://user-images.githubusercontent.com/89037748/186396522-c2cda860-5e44-43dc-971a-fe7fff955878.png">
